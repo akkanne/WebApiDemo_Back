@@ -1,9 +1,12 @@
 # WebApiDemo
 
-This project was generated with C# Framework .net Core version 6
+This project was generated with C# Framework .net Core version 6 
+
+## IDE
+
+Microsoft Visual Studio Community 2022 (64 bits) - Current Versión 17.5.2
 
 ## La SOLUCION
-
 Esta compuesta por 4 proyectos
 	* WebApiDemo : 	Aplicación de consola expone los servicios
 					Framework : .NET 6.0
