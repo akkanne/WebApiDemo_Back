@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiDemo</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiDemo.Controllers.VehiclesController.Delete(System.Int32)">
+            <summary>
+            Method 
+            Realiza el borrade de vehículos{id}
+            </summary>
+        </member>
+    </members>
+</doc>
